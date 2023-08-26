@@ -56,7 +56,7 @@
                             <h5 class="text-muted">{{ post.hook_text }}</h5>
                             <!-- Post meta content-->
                             <div class="text-muted fst-italic mb-2">{{ post.created_at }}</div>
-                            <div class="text-muted fst-italic mb-2">작성자명 Todo</div>
+                            <div class="text-muted fst-italic mb-2">{{ post.author | upper }}</div>
 
                             <!-- Post categories-->
                             <a class="badge bg-secondary text-decoration-none link-light" href="#!">Web Design</a>
