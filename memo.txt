@@ -1,0 +1,9 @@
+메모용
+어드민 아이디
+id : junwoo
+pw : wnsdn
+
+common user
+id : common_user
+pw : 일반유저
+
